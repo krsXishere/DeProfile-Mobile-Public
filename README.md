@@ -1,4 +1,4 @@
-# de_profile_public
+# De'Profile Public Mobile App
 
 A new Flutter project.
 
